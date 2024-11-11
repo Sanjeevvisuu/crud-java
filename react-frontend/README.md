@@ -7,7 +7,7 @@ this application work in node 16
 
 -- node --version
 #yarn 
-yarn install:
+yarn install
 curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 sudo apt update
