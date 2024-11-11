@@ -2,8 +2,8 @@
 -- rm -rf node_modules yarn.lock
 this application work in node 16
 #install latest version node
---nvm install 16
--- nvm use 16
+--nvm install 16 or 18 
+-- nvm use 16 or 18
 
 -- node --version
 #yarn 
