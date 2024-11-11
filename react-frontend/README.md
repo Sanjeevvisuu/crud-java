@@ -1,3 +1,6 @@
+#remove
+-- rm -rf node_modules yarn.lock
+
 #install latest version node
 -- nvm install 18
 -- nvm use 18
